@@ -4,7 +4,7 @@
 This guide walks you through a step-by-step method to automate cold outreach to recruiters using LinkedIn data, the GetProspect Chrome Extension, and Google Mail Merge by Martin Hawksey. This is ideal for job seekers looking to scale their networking efforts with personalized mass emails.
 
 ## 📹 Demo Video
-Watch the full demo: *[YouTube Link]*
+Watch the full demo: *[https://www.linkedin.com/posts/srujanshetty_jobsearch-networking-mailmerge-activity-7317512153802911744-MOGG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPlSrUBMmo1OyZHHocrErjhxwtbdMXMpuw]*
 
 ## 📦 What You’ll Need
 - Google Account
